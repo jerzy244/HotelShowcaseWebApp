@@ -14,7 +14,6 @@ Hotel Showcase Web App is a web application developed in ASP.NET Core MVC, desig
 <ul>
   <li>ASP.NET Core MVCASP.NET Core MVC</li>
   <li>Entity Framework Core</li>
-  <li>SQL Server</li>
   <li>PostgreSQL</li>
 </ul>
 
